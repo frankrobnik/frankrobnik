@@ -5,10 +5,11 @@ Hello 👋 I am a full stack developer living in Berlin. I am passionate about a
 
 ## Goals and interests
 
-- [x] 🍕 eating pizza, pancakes and a healthy lifestyle in general
-- [ ] 🌱 currently learning next.js
-- [ ] 🏃‍♂️ running the berlin marathon
-- [ ] 🗻 climbing the kilimanjaro
+- 🍕 eating pizza, pancakes and a healthy lifestyle in general
+- 🌱 currently learning next.js
+- ✨ currious about lottie and improving UX with micro animations
+- 🏃‍♂️ running the berlin marathon
+- 🗻 climbing the kilimanjaro
 
 ## Say hello
 
