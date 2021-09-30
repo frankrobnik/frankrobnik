@@ -1,7 +1,7 @@
 # Frank Robnik – @frankrobnik
 ### About me
 
-Hello 👋 I am a full stack developer living in Berlin. I am passionate about all things UX / UI design and frontend development. I love working with the **MERN stack**, but am also always on the lookout for new technologies, ... as long as it's **typescript**!
+Hello 👋 I am a full stack developer living in Berlin. I am passionate about all things UX / UI design and frontend development. I love working with the **MERN stack**, but am also always on the lookout for new technologies, ... as long as it's **typescript** 🤓
 
 ### Goals and interests
 
