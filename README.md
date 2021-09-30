@@ -22,4 +22,4 @@ Hello 👋 I am a full stack developer living in Berlin. I am passionate about a
 
 **Technologies, frameworks and libraries that I have used in the past and would like to use again**
 
-JavaScript, TypeScript, Node, HTML, CSS, SCSS, React, React Native, AngularJS, Gatsby, ExpressJs, Koa, Apollo, Postgres, MongoDB, mongooe.js, GraphQL
+JavaScript, TypeScript, Node, HTML, CSS, SCSS, React, React Native, AngularJS, Gatsby, ExpressJs, Koa, Apollo, PostgreSQL, MongoDB, mongooe.js, GraphQL
