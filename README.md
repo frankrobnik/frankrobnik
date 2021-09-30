@@ -20,7 +20,7 @@ Hello 👋 I am a full stack developer living in Berlin. I am passionate about a
 
 ---
 
-### Technologies, Frameworks and Libraries I have used in the past and am looking forward to use again
+**Technologies, Frameworks and Libraries I have used in the past and am looking forward to use again**
 
 JavaScript, TypeScript, HTML, CSS
 
