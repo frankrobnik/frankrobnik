@@ -3,15 +3,16 @@
 
 Hello 👋 I am a full stack developer living in Berlin. I am passionate about all things UX / UI design and frontend development. I love working with the **MERN stack**, but am also always on the lookout for new technologies, ... as long as it's **typescript**!
 
-## Goals and interests
+### Goals and interests
 
-- 🍕 eating pizza, pancakes and a healthy lifestyle in general
 - 🌱 currently learning next.js
 - ✨ currious about lottie and improving UX with micro animations
 - 🏃‍♂️ running the berlin marathon
 - 🗻 climbing the kilimanjaro
+- 🍕 eating pizza, pancakes and a healthy lifestyle in general
 
-## Say hello
+
+### Get connected
 
 - [LinkedIn](https://www.linkedin.com/in/frank-robnik/)
 - [Twitter](https://twitter.com/frobnik)
