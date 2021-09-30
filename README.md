@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @frankrobnik
-- 🍕 I like pizza, pancakes and a healthy lifestyle in general
-- 🌱 currently learning JavaScript at Codeworks
-- 👀 I’m interested in web & app development, animation (2D & 3D) and UX / UI design
+# Frank Robnik – @frankrobnik
+### About me
 
+Hello 👋 I am a full stack developer living in Berlin. I am passionate about all things UX / UI design and frontend development. I love working with the **MERN stack**, but am also always on the lookout for new technologies, ... as long as it's **typescript**!
 
-<!---
-frankrobnik/frankrobnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Goals and interests
+
+- [x] 🍕 eating pizza, pancakes and a healthy lifestyle in general
+- [ ] 🌱 currently learning next.js
+- [ ] 🏃‍♂️ running the berlin marathon
+- [ ] 🗻 climbing the kilimanjaro
+
+## Say hello
+
+- [LinkedIn](https://www.linkedin.com/in/frank-robnik/)
+- [Twitter](https://twitter.com/frobnik)
+- [Portfolio](https://www.frank-robnik.de/)
