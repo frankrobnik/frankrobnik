@@ -8,7 +8,7 @@ Hello 👋 I am a full stack developer living in Berlin. I am passionate about a
 - 🌱 currently learning next.js
 - ✨ currious about lottie and improving UX with micro animations
 - 🏃‍♂️ running the berlin marathon
-- 🗻 climbing the kilimanjaro
+- 🗻 hiking to the top of kilimanjaro
 - 🍕 eating pizza, pancakes and a healthy lifestyle in general
 
 
