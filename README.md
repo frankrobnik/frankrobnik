@@ -1,11 +1,9 @@
-# Frank Robnik – @frankrobnik
-### About me
+# About me
 
-Hello 👋 I am a software engineer living in Berlin focusing on all things UX / UI design and frontend development.
+Hello 👋 I am a software developer living in Berlin.
 
-- 🌱 currently learning next.js
+- 🌱 currently learning GO
 - ✨ currious about lottie and improving UX with micro animations
-- 🏃‍♂️ running the berlin marathon 2022
 - 🍕 eating pizza, pancakes and a healthy lifestyle in general
 
 
