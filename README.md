@@ -2,7 +2,7 @@
 
 Hello 👋 I am a software developer living in Berlin.
 
-- 🌱 currently learning GO
+- 🌱 currently learning Next.js
 - ✨ currious about lottie and improving UX with micro animations
 - 🍕 eating pizza, pancakes and a healthy lifestyle in general
 
