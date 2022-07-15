@@ -1,10 +1,10 @@
 # About me
 
-Hello 👋 I am a software developer living in Berlin.
+Hello 👋 I am a frontend engineer living in Berlin.
 
+- 🍕 I like pizza, pancakes and a healthy lifestyle in general
 - 🌱 currently learning Next.js
 - ✨ currious about lottie and improving UX with micro animations
-- 🍕 eating pizza, pancakes and a healthy lifestyle in general
 
 
 ### Get connected
